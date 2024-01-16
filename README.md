@@ -1,6 +1,6 @@
 # Silver-Garden-Assistant
 
- The Site can be accessed [here](https://ethanbenton.github.io/Silver-Garden-Assistant/).
+ The Site can be accessed [here](https://old-dominion-univ-cs-dept.github.io/Silver-Garden-Assistant-411W/).
 
  # Other Pages
 
