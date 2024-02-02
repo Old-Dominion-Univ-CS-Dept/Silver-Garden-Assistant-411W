@@ -11,23 +11,23 @@
 
 </details>
 
-  - [About Us (md)](about_us)
+  - [About Us (md)](Website/about_us.md)
 
-  - [Project Description (md)](Project_Description)
+  - [Project Description (md)](Website/Project_Description)
 
-  - [Deliverables (md)](Deliverables)
+  - [Deliverables (md)](Website/Deliverables)
 
-  - [Presentations (md)](presentations)
+  - [Presentations (md)](Website/presentations)
   
-  - [Docs (md)](docs)
+  - [Docs (md)](Website/docs)
 
-  - [411W Docs (md)](411W_docs)
+  - [411W Docs (md)](Website/411W_docs)
 
-  - [User Stories (md)](User_Stories)
+  - [User Stories (md)](Website/User_Stories)
 
-  - [References (md)](References)
+  - [References (md)](Website/References)
 
-  - [Glossary (md)](Glossary)
+  - [Glossary (md)](Website/Glossary)
 
   - [Odu](https://www.odu.edu/)
   
